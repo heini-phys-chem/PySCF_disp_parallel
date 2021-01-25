@@ -17,3 +17,5 @@ then simply:
 ```
 
 The energies wil be saved in the file `energies.log`
+
+WARNING: PySCF uses all cores available if not limited using `export OMP_NUM_THREADS=...`
