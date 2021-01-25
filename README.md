@@ -9,7 +9,7 @@ Requirements:
 How to use:
 - specify the xyz files (python list)
 - specify the methods (python list)
-- specify number of cores (n_jobs= in line 160)
+- specify number of cores (n_jobs=... in line 160)
 
 then simply:
 ```
